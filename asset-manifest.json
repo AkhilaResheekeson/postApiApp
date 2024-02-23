@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postApiApp/static/css/main.5038703a.css",
+    "main.js": "/postApiApp/static/js/main.9abbbd25.js",
+    "index.html": "/postApiApp/index.html",
+    "main.5038703a.css.map": "/postApiApp/static/css/main.5038703a.css.map",
+    "main.9abbbd25.js.map": "/postApiApp/static/js/main.9abbbd25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5038703a.css",
+    "static/js/main.9abbbd25.js"
+  ]
+}
